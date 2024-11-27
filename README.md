@@ -1,4 +1,6 @@
-<h3 align="center">Talk is cheap show me the CODE &lt;/&gt;</h3>
+<h3 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=04F712&width=435&lines=Talk+is+cheap+show+me+the+CODE+%3C%2F%3E" alt="Typing SVG" /></a>
+</h3>
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
