@@ -21,7 +21,7 @@
 
 #
 
-### 🧰 Languages and Tools
+### 🧰 Tech Stack
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -35,4 +35,4 @@
 
 #
 
-🤝 If you're interested in working together or just want to chat, feel free to drop me a line. Let's connect and build something awesome!
+🤝  **Collaboration:** Open to project ideas or casual chats—feel free to reach out!
