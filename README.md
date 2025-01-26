@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=04F712&width=435&lines=Talk+is+cheap+show+me+the+CODE+%3C%2F%3E" alt="Typing SVG" /></a>
 </h3>
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
