@@ -35,4 +35,36 @@
 
 #
 
+<h3 align="center">🚀 Featured Projects</h3>
+
+<div align="center">
+
+<a href="https://premiaks.com" target="_blank">
+  <img src="https://img.shields.io/badge/PREMIAKS-000000?style=for-the-badge&logo=vercel&logoColor=04F712&labelColor=000000" />
+</a>
+
+<a href="https://gitlearner.com" target="_blank">
+  <img src="https://img.shields.io/badge/GITLEARNER-000000?style=for-the-badge&logo=git&logoColor=04F712&labelColor=000000" />
+</a>
+
+<a href="https://timewasted.app" target="_blank">
+  <img src="https://img.shields.io/badge/TIMEWASTED.APP-000000?style=for-the-badge&logo=clockify&logoColor=04F712&labelColor=000000" />
+</a>
+
+<a href="https://casabali.eu" target="_blank">
+  <img src="https://img.shields.io/badge/CASABALI-000000?style=for-the-badge&logo=googlehome&logoColor=04F712&labelColor=000000" />
+</a>
+
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=04F712&center=true&vCenter=true&width=435&lines=Building+cool+things+on+the+internet...;Turning+ideas+into+real+products.;Code.+Design.+Create." />
+</p>
+
+#
+
+#
+
 🤝  **Collaboration:** Open to project ideas or casual chats—feel free to reach out!
